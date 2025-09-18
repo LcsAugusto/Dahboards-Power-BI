@@ -1,4 +1,4 @@
-# 📊 Repositório de Projetos Power BI – Casos Reais e Soluções de Negócios
+# Repositório de Projetos Power BI – Casos Reais e Soluções de Negócios
 
 Bem-vindo(a) ao meu repositório de projetos desenvolvidos em **Power BI**!
 
@@ -8,7 +8,7 @@ Ao longo da minha jornada com Power BI, tive a oportunidade de trabalhar com **d
 
 ---
 
-## 🎓 Sobre os Projetos
+## Sobre os Projetos
 
 Os dashboards apresentados neste repositório foram desenvolvidos como parte prática do curso **"Microsoft Power BI para Business Intelligence e Data Science"** oferecido pela **Data Science Academy (DSA)**.
 
@@ -25,7 +25,7 @@ Durante o curso, foram trabalhadas competências como:
 
 ---
 
-## 🔎 O que você vai encontrar aqui
+## O que você vai encontrar aqui
 
 Os projetos abordam problemas típicos enfrentados por diferentes áreas de uma organização, como:
 
@@ -49,41 +49,7 @@ Todos os dashboards foram elaborados com foco em **clareza visual**, **experiên
 
 ---
 
-## 📁 Projetos Disponíveis
-
-Abaixo, a lista de projetos incluídos neste repositório:
-
-### 📈 Dashboards de Vendas e Marketing
-- [Análise de Campanhas de Marketing com Power BI](#)
-- [Dashboard Analítico de Vendas Globais](#)
-- [Dashboard de Vendas, Custo, Margem de Lucro e KPI](#)
-- [Performance de Vendas](#)
-
-### 💼 Dashboards Financeiros
-- [Balanço Patrimonial com Visual de Matriz no Power BI](#)
-- [Dashboard de Análise Financeira](#)
-- [Detecção de Anomalias em Transações Financeiras com Linguagem R e Power BI](#)
-
-### 🚛 Logística e Operações
-- [Análise de Dados de Logística](#)
-
-### 🧑‍💼 Recursos Humanos
-- [Análise de Dados de RH com Power BI](#)
-
-### 🏭 Engenharia e Produção
-- [Engenharia de Produção com Power BI e IA – Prevendo a Produção Industrial ao Longo do Tempo](#)
-
-### 📊 Análises Estatísticas e Outliers
-- [Estatísticas da Variável Altura Para Visualização de Outliers](#)
-
-### 📉 Mercado Financeiro
-- [Dashboard Analítico do Mercado de Ações com Narrativa Inteligente](#)
-
-> 🔗 Em breve, adicionarei capturas de tela e links diretos para cada projeto.
-
----
-
-## 🎯 Objetivo do Repositório
+## Objetivo do Repositório
 
 A intenção principal é demonstrar, na prática, como o Power BI pode ser aplicado para:
 
@@ -96,24 +62,10 @@ Este repositório também é uma vitrine do meu trabalho com Business Intelligen
 
 ---
 
-## 👤 Sobre mim
-
-> *(Você pode personalizar esta seção com suas informações reais)*
-
-Sou entusiasta da área de dados, com experiência em análise e visualização com Power BI. Este repositório representa parte do meu aprendizado prático e também serve como referência para outros profissionais que buscam aplicar soluções de BI em problemas reais de negócios.
-
----
-
-## 🚀 Como visualizar os dashboards
+## Como visualizar os dashboards
 
 Para acessar e interagir com os dashboards:
 
 1. Baixe o arquivo `.pbix` do projeto desejado
 2. Abra com o **Power BI Desktop** (disponível gratuitamente no site da Microsoft)
 3. Explore as páginas, filtros e visualizações disponíveis
-
----
-
-## 📬 Contato
-
-Fique à vontade para entrar em contato para trocar ideias, dar feedback ou sugerir melhorias!
